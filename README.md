@@ -107,8 +107,7 @@ The following enhancements are intended **strictly for educational and defensive
 
 ## 📄 License
 
-This project is provided for **educational purposes only**.  
-Misuse of this code is strictly discouraged.
+This project is licensed under the MIT License and is provided for educational purposes only. The author does not condone or support malicious use of this code.
 
 ---
 
